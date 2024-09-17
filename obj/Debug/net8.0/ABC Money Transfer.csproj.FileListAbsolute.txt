@@ -1,0 +1,30 @@
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\bin\Debug\net8.0\appsettings.json
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\bin\Debug\net8.0\ABC Money Transfer.staticwebassets.runtime.json
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\bin\Debug\net8.0\ABC Money Transfer.exe
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\bin\Debug\net8.0\ABC Money Transfer.deps.json
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\bin\Debug\net8.0\ABC Money Transfer.runtimeconfig.json
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\bin\Debug\net8.0\ABC Money Transfer.dll
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\bin\Debug\net8.0\ABC Money Transfer.pdb
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\obj\Debug\net8.0\ABC Money Transfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\obj\Debug\net8.0\ABC Money Transfer.AssemblyInfoInputs.cache
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\obj\Debug\net8.0\ABC Money Transfer.AssemblyInfo.cs
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\obj\Debug\net8.0\ABC Money Transfer.csproj.CoreCompileInputs.cache
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\obj\Debug\net8.0\ABC Money Transfer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\obj\Debug\net8.0\ABC Money Transfer.RazorAssemblyInfo.cache
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\obj\Debug\net8.0\ABC Money Transfer.RazorAssemblyInfo.cs
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\obj\Debug\net8.0\staticwebassets\msbuild.ABC Money Transfer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\obj\Debug\net8.0\staticwebassets\msbuild.build.ABC Money Transfer.props
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ABC Money Transfer.props
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ABC Money Transfer.props
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\obj\Debug\net8.0\scopedcss\bundle\ABC Money Transfer.styles.css
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\obj\Debug\net8.0\scopedcss\projectbundle\ABC Money Transfer.bundle.scp.css
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\obj\Debug\net8.0\ABC Money Transfer.dll
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\obj\Debug\net8.0\refint\ABC Money Transfer.dll
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\obj\Debug\net8.0\ABC Money Transfer.pdb
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\obj\Debug\net8.0\ABC Money Transfer.genruntimeconfig.cache
+C:\Users\nabin\OneDrive\Desktop\abc money transfer\ABC Money Transfer\obj\Debug\net8.0\ref\ABC Money Transfer.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aF9jdGoywlQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nabin\\OneDrive\\Desktop\\abc money transfer\\ABC Money Transfer\\ABC Money Transfer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nabin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
